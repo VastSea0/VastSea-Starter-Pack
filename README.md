@@ -22,4 +22,4 @@ Projeyi çalıştırabilmek için bilgisayarınızda şu yazılımların yüklü
 Projeyi yerel makinanıza klonlayın:
 
 ```sh
-git clone https://github.com/KULLANICI_ADI/PROJE_ADI.git
+git clone https://github.com/VastSea0/VastSea-Starter-Pack.git
